@@ -1,0 +1,30 @@
+body{
+    margin: 0!important;
+}
+nav{
+    background-color: #1D2769;
+    /* color: white; */
+    align-items: center;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+    
+}
+nav .nav-item{
+    padding: 0px 10px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.article{
+    padding: 10px;
+    margin-top: 10px;
+}
+.article-item{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 10px;
+}
